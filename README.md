@@ -55,6 +55,8 @@ fetch(request)
 )
 ~~~
 
+**对了，生成的vmess链接里记得把路径去掉，然后把cf works的域名添加上就行**
+
 
 
 
